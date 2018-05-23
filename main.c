@@ -10,7 +10,7 @@ Description:通过c语言打印特殊字符对俄罗斯方块游戏进行实现
 Output:
 Return:
 Others:
-auther:刘XX
+auther:LiuTianyong
 *************************************************/
 
 /*宏定义常量*/
